@@ -3,3 +3,8 @@ Ingredients:
 1. Bun
 2. Patty
 3. Tomato
+
+Ingredients for Sauce:
+1. Mayonnaise
+2. Salt
+3. Lime
