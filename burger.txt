@@ -3,8 +3,13 @@ Ingredients:
 1. Bun
 2. Patty
 3. Tomato
+4. Lettuce
 
 Ingredients for Sauce:
 1. Mayonnaise
 2. Salt
 3. Lime
+Ingredients for Fries:
+1. Potato
+2. Salt
+3. Pepper
